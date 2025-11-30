@@ -107,18 +107,24 @@ Viti-Sense/
 ```
 ```
 🤝 Contributing
+
 Pull requests are welcome!
 To discuss new features or collaborations, open an Issue or contact the team.
+
 ```
 ```
 🏢 About DroneWorx.ai
+
 DroneWorx.ai builds cutting-edge autonomous and AI technologies
 for agriculture, surveying, and field robotics.
 Our mission: make farming smarter, faster, and disease-free.
+
 ```
 ```
 📜 License
+
 MIT License © 2025 DroneWorx.ai
+
 ```
 
 
