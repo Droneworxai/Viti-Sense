@@ -66,24 +66,3 @@ npm install
 npm run dev
 
 
-After starting the development server, you can access the dashboard at:
-➡️ **http://localhost:5173**
-
-## 📁 Project Structure
-
-Viti-Sense/
-│── public/
-│── src/
-│ ├── pages/
-│ │ ├── LoginPage.jsx
-│ │ ├── CreateFarmPage.jsx
-│ │ ├── BoundaryPage.jsx
-│ │ └── DashboardPage.jsx
-│ ├── utils/
-│ │ └── geo.js
-│ ├── App.jsx
-│ └── main.jsx
-│── .gitignore
-│── package.json
-│── vite.config.js
-└── README.md
