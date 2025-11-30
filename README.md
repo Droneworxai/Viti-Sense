@@ -66,10 +66,9 @@ npm install
 npm run dev
 
 
-
 ## 📁 Project Structure
 
-```txt
+\`\`\`txt
 Viti-Sense/
 │── public/
 │── src/
@@ -86,6 +85,6 @@ Viti-Sense/
 │── package.json
 │── vite.config.js
 └── README.md
-
+\`\`\`
 
 
