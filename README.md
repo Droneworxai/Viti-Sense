@@ -91,20 +91,7 @@ Viti-Sense/
 └── README.md
 
 ```
-```
 
-🧭 Roadmap
-
- Integrate live weather APIs
- Add disease heatmap overlay
- Upload drone images → run AI model → visualize detections
- Export drone missions (QGroundControl CSV)
- Export robot paths for ROS-based robots
- Add backend (Node.js + Firebase or Supabase)
- Enable multi-user accounts
- Auto-generate analytics dashboard
-
-```
 ```
 🤝 Contributing
 
