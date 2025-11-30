@@ -70,7 +70,7 @@ After starting the development server, access the dashboard at:
 
 ➡️ http://localhost:5173
 
-🗂️ Project Structure
+## 🗂️ Project Structure
 
 Viti-Sense/
 │── public/
