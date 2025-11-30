@@ -66,5 +66,4 @@ npm install
 npm run dev
 
 
-📁 Project Structure
-<pre> Viti-Sense/ ├── public/ ├── src/ │ ├── pages/ │ │ ├── LoginPage.jsx │ │ ├── CreateFarmPage.jsx │ │ ├── BoundaryPage.jsx │ │ └── DashboardPage.jsx │ ├── utils/ │ │ └── geo.js │ ├── App.jsx │ └── main.jsx ├── .gitignore ├── package.json ├── vite.config.js └── README.md </pre>
+
