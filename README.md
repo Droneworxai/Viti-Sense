@@ -70,6 +70,7 @@ After starting the development server, access the dashboard at:
 
 ➡️ http://localhost:5173
 
+```
 ## 🗂️ Project Structure
 
 Viti-Sense/
@@ -88,6 +89,9 @@ Viti-Sense/
 │── package.json
 │── vite.config.js
 └── README.md
+
+```
+
 
 
 
