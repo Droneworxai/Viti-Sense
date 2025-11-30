@@ -41,26 +41,8 @@ Powered by **Leaflet + Geoman**
 - Humidity  
 - Wind  
   
-
 ---
 
-## 🖼 Screenshots
-
-> Replace these image links with your own screenshots from your dashboard.
-
-### 🔐 Sign-In Page  
-![Sign In](docs/screens/login.png)
-
-### 🧭 Farm Setup  
-![Create Farm](docs/screens/create_farm.png)
-
-### 📐 Draw Boundary  
-![Boundary Page](docs/screens/boundary.png)
-
-### 📊 Dashboard  
-![Dashboard](docs/screens/dashboard.png)
-
----
 
 ## 🏗 Tech Stack
 
@@ -83,10 +65,7 @@ cd Viti-Sense
 npm install
 npm run dev
 
-##
-
 
 After starting the development server, you can access the dashboard at:
-
 ➡️ **http://localhost:5173**
 
