@@ -40,7 +40,7 @@ Powered by **Leaflet + Geoman**
 - Rain chance  
 - Humidity  
 - Wind  
-(backed by static demo data or can be connected to API)
+  
 
 ---
 
