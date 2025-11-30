@@ -65,5 +65,14 @@ cd Viti-Sense
 npm install
 npm run dev
 
+---
+
+After starting the development server, access the dashboard at:
+
+➡️ http://localhost:5173
+
+---
+
+
 
 
