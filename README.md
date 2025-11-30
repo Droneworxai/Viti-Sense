@@ -1,16 +1,84 @@
-# React + Vite
+# 🍇 Viti-Sense  
+### Smart Vineyard Disease Monitoring & Autonomous Field Insights  
+_A DroneWorx.ai project_
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Viti-Sense is an intelligent field-management dashboard designed for vineyards.  
+It combines **drone aerial imaging**, **robot row-based inspection**, and **real-time weather intelligence** to help farmers detect diseases early and plan optimal field operations.
 
-Currently, two official plugins are available:
+This project includes:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- A fully interactive **farm setup wizard**
+- Polygon-based **boundary drawing**
+- **Drone grid coverage** visualization inside the farm
+- **Robot zig-zag row inspection** inside the same boundary
+- Live **weather and humidity** panels
+- Clean, modern **dark-theme UI** built with React + Vite
+- Local persistence of multiple farms (via `localStorage`)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Features
 
-## Expanding the ESLint configuration
+### 🌱 Create & Manage Farms
+- Add new vineyards via a guided form  
+- Save multiple farms locally  
+- “Go to Farm” shortcut loads previous boundaries & settings  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🗺 Draw Farm Boundaries  
+Powered by **Leaflet + Geoman**  
+- Search by postcode / location  
+- Draw, edit, or remove boundaries  
+- Snap the map to your farm automatically  
+
+### 🤖 Drone & Robot Field Inspection
+- **Drone Mode:** Generates an aerial grid path  
+- **Robot Mode:** Generates a zig-zag row-based path  
+- All paths stay inside the farmer’s boundary  
+
+### 🌤 Weather Intelligence  
+- Temperature  
+- Rain chance  
+- Humidity  
+- Wind  
+(backed by static demo data or can be connected to API)
+
+---
+
+## 🖼 Screenshots
+
+> Replace these image links with your own screenshots from your dashboard.
+
+### 🔐 Sign-In Page  
+![Sign In](docs/screens/login.png)
+
+### 🧭 Farm Setup  
+![Create Farm](docs/screens/create_farm.png)
+
+### 📐 Draw Boundary  
+![Boundary Page](docs/screens/boundary.png)
+
+### 📊 Dashboard  
+![Dashboard](docs/screens/dashboard.png)
+
+---
+
+## 🏗 Tech Stack
+
+| Layer | Technology |
+|-------|------------|
+| Frontend | React + Vite |
+| Mapping | Leaflet, Leaflet-Geoman |
+| UI | Custom Tailwind-style dark theme |
+| State | React Hooks + localStorage |
+| Build | Vite |
+| Deployment | (Optional) Netlify / Vercel |
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/Droneworxai/Viti-Sense.git
+cd Viti-Sense
+npm install
+npm run dev
