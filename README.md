@@ -91,6 +91,8 @@ Viti-Sense/
 └── README.md
 
 ```
+```
+
 🧭 Roadmap
  Integrate live weather APIs
  Add disease heatmap overlay
@@ -100,6 +102,7 @@ Viti-Sense/
  Add backend (Node.js + Firebase or Supabase)
  Enable multi-user accounts
  Auto-generate analytics dashboard
+```
 
 
 
