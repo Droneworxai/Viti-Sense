@@ -70,7 +70,7 @@ Below are preview screens from the Viti-Sense dashboard.
 ### 📊 Dashboard Overview  
 ![Dashboard](docs/screens/vtsc7.jpeg)
 
----
+
 
 ## 🏗 Tech Stack
 
