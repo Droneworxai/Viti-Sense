@@ -43,8 +43,34 @@ Powered by **Leaflet + Geoman**
   
 ---
 
+## 🖼 Screenshots
 
+Below are preview screens from the Viti-Sense dashboard.
 
+---
+
+### 🔐 Login  
+![Login](docs/screens/vtsc1.jpeg)
+
+### 🧭 Create Farm  
+![Create Farm](docs/screens/vtsc2.jpeg)
+
+### ✏️ Draw Boundary  
+![Draw Boundary](docs/screens/vtsc3.jpeg)
+
+### 🛠️ Boundary Tools  
+![Boundary Tools](docs/screens/vtsc4.jpeg)
+
+### 🚁 Drone Spray Grid  
+![Drone Grid](docs/screens/vtsc5.jpeg)
+
+### 🤖 Robot Row-by-Row Path  
+![Robot Path](docs/screens/vtsc6.jpeg)
+
+### 📊 Dashboard Overview  
+![Dashboard](docs/screens/vtsc7.jpeg)
+
+---
 
 ## 🏗 Tech Stack
 
