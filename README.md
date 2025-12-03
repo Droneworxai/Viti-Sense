@@ -61,13 +61,13 @@ Below are preview screens from the Viti-Sense dashboard.
 ### 🛠️ Boundary Tools  
 ![Boundary Tools](docs/screens/vtsc4.jpeg)
 
-### 🚁 Drone Spray Grid  
+### 🚁 Drone Map 
 ![Drone Grid](docs/screens/vtsc5.jpeg)
 
-### 🤖 Robot Row-by-Row Path  
+### 🤖 Robot Scouting  
 ![Robot Path](docs/screens/vtsc6.jpeg)
 
-### 📊 Dashboard Overview  
+### 📊 Create Farm Overview  
 ![Dashboard](docs/screens/vtsc7.jpeg)
 
 
